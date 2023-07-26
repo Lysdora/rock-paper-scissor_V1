@@ -128,3 +128,18 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# npm packages
+package.json
+package-lock.jso
+
+# npm packages
+node_modules/
+jspm_packages/
+
+# Project configuration
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
