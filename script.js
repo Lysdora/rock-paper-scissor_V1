@@ -60,3 +60,4 @@ function playGame() {
 }
 
 playGame();
+console.log("end of program");
